@@ -1,0 +1,8 @@
+shopeasy\InventoryService.class
+shopeasy\PaymentGateway.class
+shopeasy\ShoppingCart.class
+shopeasy\OrderProcessor.class
+shopeasy\Product.class
+shopeasy\CartItem.class
+shopeasy\PriceCalculator.class
+shopeasy\Order.class
